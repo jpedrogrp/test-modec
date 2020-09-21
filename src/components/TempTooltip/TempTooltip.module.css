@@ -1,0 +1,10 @@
+.tooltip{
+    width: 80%;
+    float: left;
+}
+
+.btn{
+    margin-top: 0.8rem;
+    margin-bottom: 0.8rem;
+    width: 50%;
+}

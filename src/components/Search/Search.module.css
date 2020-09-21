@@ -1,0 +1,17 @@
+.search {
+  position: absolute;
+  top: 1rem;
+  left: 90%;
+  height: 75px;
+  max-width: 80px;
+  z-index: 10;
+  padding: 0;
+  border: unset;
+  cursor: pointer;
+  background: transparent;
+  }
+
+.search:focus, .search:focus-within{
+  border: unset;
+  outline: transparent;
+}

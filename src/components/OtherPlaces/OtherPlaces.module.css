@@ -1,0 +1,16 @@
+.Places {
+    font-size: x-large;
+}
+
+.holder{
+    font-size: 2rem;
+    width: 80%;
+    margin: 2rem 1rem 2rem 2rem;
+}
+
+.Result {
+    right: 0px;
+    left: 81%;
+    width: 20%;
+    height: 100%;
+}
